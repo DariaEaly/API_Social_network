@@ -1,4 +1,4 @@
-# ![Logo](yatube_api\static\favicon-32x32.png) api_yatube_project
+# api_yatube_project
 
 ## Описание
 
